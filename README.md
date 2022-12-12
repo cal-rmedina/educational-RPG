@@ -30,6 +30,7 @@ The project is divided in several parts:
   * Git
   * Markdown
   * Python, C++, C.
+  * Latex
 
 * Math background.
 
@@ -41,9 +42,9 @@ The project is divided in several parts:
 
 ## Suggestion
 
-- 3-4 students with complementary projects:
-  1. Writes and developed the plot and script.
-  2. Develops the program, testing, releases.
-  3. Pose problems and puzzles to be solved.
-  4. Create the animations.
++ 3-4 students with complementary projects:
+  + Writes and developed the plot and script.
+  + Develops the program, testing, releases.
+  + Pose problems and puzzles to be solved.
+  + Create the animations.
 
