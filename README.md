@@ -45,9 +45,9 @@ Fantasy RPGs.
 
 ## Suggestion
 
-+ 3-4 students with complementary projects:
++ 4-5 students with complementary projects for each of them:
   + Writes and developed the plot and script.
   + Develops the program, testing, releases.
   + Pose problems and puzzles to be solved.
   + Create the animations.
-
+  + Music.
