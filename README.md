@@ -10,7 +10,10 @@ First release of state-of-the-art [RPG](https://en.wikipedia.org/wiki/Role-playi
 
 The project is divided in several parts:
 
-1. Finding a software (open source) to develop the project and start developing testing levels, the idea is to end up with an application similar to [Vim-adventures](https://vim-adventures.com) or any Pokemon, Paper Mario, Final Fantasy RPGs.
+1. Finding a software (open source) to develop the project and start developing
+testing levels, the idea is to end up with an application similar to
+[Vim-adventures](https://vim-adventures.com), [Stranger Things: 1984](https://play.google.com/store/apps/details?id=com.netflix.NGP.StrangerThings&gl=US) or any Pokemon, Paper Mario, Final
+Fantasy RPGs.
 
 + Definding the topics to be used inside the story, as a suggestion it could be (Check ".    /plot_stories/*" for more info):
   + Kinematics: collecting information inside the map to solve the final problem to finish the first level, it could be solving a pendulum, finding the maximum height, launching a projectile and finding the angle, find the escape velocity to put a satellite into orbit, etc.
