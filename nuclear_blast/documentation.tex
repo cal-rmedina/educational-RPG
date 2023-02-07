@@ -1,0 +1,53 @@
+\documentclass{article}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\title{2-D video game documentation:\\Name to be defined}
+\date{\today}
+\author{cal-rmedina}
+
+\begin{document}
+  \maketitle
+
+\textbf{Runs on:} Windows, Linux and Mac.
+\textbf{Website:} \href{https://godotengine.org/}{Godot}.
+\textbf{YouTube Chanel:} \href{https://www.youtube.com/@GodotEngineOfficial/featured}{YouTube chanel}.
+
+
+The following chapters desctibe the structure of the video game; character devlopment, playability, style and animation.
+
+\section{Motivation}
+\section{Color palette}
+\section{Shapes and borders of the animation}
+\section{Sound atmosphere}
+\section{Physics}
+
+This chapter includes the physical concepts used inside the video game, brief explanation and equations used.
+
+\subsection{Nuclear decay}
+
+\subsection{Ballistic movement of the oponents}
+
+For the moving enemies, a random ballistic motion has been used, it is defined as follows:
+
+\begin{equation}
+\bar{r}_i(t+\delta t) = \bar{r}_i(t) + \bar{v}\delta t\times n_{rnd}
+\end{equation}
+
+where $\bar{r}_i(t)$ is the position of enemy $i$ at time $t$, $\bar{v}$ is the
+constant velocity of the particles and $n_{rdn}$ is an uniform random number
+between [0,1]. {$n_{rdn}$} defines random path of the enemy. If it is not
+included, the movement becomes ballistic.
+
+\subsection{Boundaries}
+
+The battle field is defined as a rectangle, once the enemy interacts with the boundaries of the maps, a bouncing rule is defined, in our case \texttt{bouncing back rule}.
+
+
+
+
+
+
+
+
+\end{document}

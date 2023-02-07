@@ -1,0 +1,48 @@
+Idea
+
+Evaluar mercado
+
+Medios técnicos
+
+Game dessigner
+ Mecánicas
+ Género
+ Narrativa
+ Documentos
+ Personajes
+
+Planificar
+
+  Establecer fechas (tiempo para cada escenario)
+  Cronograma (Pipeline)
+  Deadline
+  Fechas
+
+Producción
+  Personajes
+  Escenarios
+
+Post-producción
+
+  Errores
+  Buggs
+  Test
+  Dificultad
+  Release date (first version) pre-alfa
+
+  alfa version
+  Buggs
+  Test
+  Dificultad
+
+  beta version
+  big public with more people involved
+
+Correcciones
+  Fase final
+  Publicación y distribución
+
+
+HINT: Checar punto a punto y desarrollar como diagrama de árbol
+
+
